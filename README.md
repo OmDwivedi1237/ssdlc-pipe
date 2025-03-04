@@ -1,6 +1,3 @@
-Sure! Here’s a well-organized and visually appealing README for your project, incorporating emojis and markdown for a clean and engaging presentation:
-
-```markdown
 # 🚨 **Cybersecurity Risk Monitoring Dashboard** 🚨
 
 Welcome to the **Cybersecurity Risk Monitoring Dashboard**! This tool captures real-time screen data, analyzes it for potential security risks, and provides concise, actionable reports. The dashboard leverages **OCR technology** and **AI-driven analysis** to identify security threats in your code, configurations, and workflows.
@@ -139,32 +136,11 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ---
 
-## 📞 **Contact**
-
-If you have any questions or issues, feel free to reach out to us via:
-
-- **GitHub Issues**: [Create a New Issue](https://github.com/yourusername/cybersecurity-risk-monitoring-dashboard/issues)
-- **Email**: your-email@example.com
-
----
-
 ## 🔗 **Links**
 
-- [Demo](https://yourwebsite.com)
-- [GitHub Repository](https://github.com/yourusername/cybersecurity-risk-monitoring-dashboard)
+- [GitHub Repository](https://github.com/OmDwivedi1237/ssdlc-pipe)
 
 ---
 
 Happy coding and stay secure! 🚀🔐
 ```
-
-### Key Highlights:
-- **Emojis**: Use of emojis to make it visually engaging.
-- **Detailed sections**: Proper structure for setup, usage, and understanding.
-- **Tech stack and components breakdown**: Helps developers understand what tools are used and how the system is structured.
-- **AI integration and usage**: Clear explanation of the AI-driven analysis and how it works.
-- **UI description**: Emphasizes the design and modern feel of the interface.
-
-Make sure to replace placeholders like `yourusername` and `your-email@example.com` with your actual details.
-
-Let me know if you need further customization or any other improvements! 😄
