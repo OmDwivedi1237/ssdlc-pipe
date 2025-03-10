@@ -1,0 +1,10 @@
+{
+  "/api/component-source/route": "app/api/component-source/route.js",
+  "/api/screenpipe/route": "app/api/screenpipe/route.js",
+  "/api/fetch-external/route": "app/api/fetch-external/route.js",
+  "/api/risk-analysis/route": "app/api/risk-analysis/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/settings/route": "app/api/settings/route.js",
+  "/page": "app/page.js"
+}

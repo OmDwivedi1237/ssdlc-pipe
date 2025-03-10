@@ -1,0 +1,10 @@
+{
+  "/api/component-source/route": "/api/component-source",
+  "/api/screenpipe/route": "/api/screenpipe",
+  "/api/fetch-external/route": "/api/fetch-external",
+  "/api/risk-analysis/route": "/api/risk-analysis",
+  "/favicon.ico/route": "/favicon.ico",
+  "/_not-found/page": "/_not-found",
+  "/api/settings/route": "/api/settings",
+  "/page": "/"
+}
