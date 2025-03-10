@@ -136,4 +136,15 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ---
 
+<<<<<<< HEAD
 Happy coding and stay secure! 🚀🔐
+=======
+## 🔗 **Links**
+
+- [GitHub Repository](https://github.com/OmDwivedi1237/ssdlc-pipe)
+
+---
+
+Happy coding and stay secure! 🚀🔐
+```
+>>>>>>> 08ad7df4eda0b8556e6032e554617cb30d0c0e53
